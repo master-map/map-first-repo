@@ -1,6 +1,1 @@
-{
-    "apiPath": "https://api.credfundmap.net",
-    "h5Path": "https://privacy.credfundmap.net",
-    "version": 1
-}
-
+{"apiPath":"https://api.credfundmap.net","h5Path":"https://privacy.credfundmap.net","version":1}
